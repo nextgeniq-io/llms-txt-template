@@ -1,0 +1,45 @@
+# NextGenIQ
+
+> NextGenIQ is an AI visibility intelligence platform. We monitor how four leading AI engines (ChatGPT, Perplexity, Gemini, Claude) answer your category's most important questions, score your brand's visibility with statistical confidence, and recommend the specific content and citation moves that close the gap.
+
+## What NextGenIQ does
+
+- [What is NextGenIQ](https://nextgeniq.io/en/what-is-nextgeniq): The product in one page. Monitor, score, recommend, track across the four AI engines that now mediate buyer research.
+- [How it works](https://nextgeniq.io/en/how-it-works): The four-stage workflow. Query the engines, parse mentions and citations, compute visibility with confidence intervals, surface the actions with the highest ROI.
+- [Why NextGenIQ](https://nextgeniq.io/en/why-nextgeniq): What separates NextGenIQ from rank trackers, sentiment tools, and SEO suites. Built for the AI-answer era, not retrofitted from blue-link search.
+- [Methodology](https://nextgeniq.io/en/methodology): How scoring is grounded. Position-weighted visibility per prompt, with sample size and confidence intervals on every number. Transparent measurement, not a black-box score.
+- [Features](https://nextgeniq.io/en/features): Capabilities by surface. Selection Likelihood, Competitive Quadrant, Knowledge Gaps, Competitor Wins, Sentiment Trends, Hallucination detection, Citation pipeline, Weekly Narrative.
+
+## Free tools
+
+- [Free AI visibility audit](https://nextgeniq.io/en/audit): Enter a domain, get a one-page report on how AI engines currently treat your brand. No signup required.
+- [llms.txt checker and generator](https://nextgeniq.io/en/tools/llms-txt): Validate any site's /llms.txt file or generate a starter template. Free, no signup.
+
+## Education
+
+- [What is AI visibility](https://nextgeniq.io/en/what-is-ai-visibility): The category primer. What "AI visibility" means, why it matters now, how it differs from organic search rank.
+- [AI visibility vs SEO](https://nextgeniq.io/en/ai-visibility-vs-seo): Side-by-side comparison. What still applies, what doesn't, what's net-new.
+- [How to rank in ChatGPT](https://nextgeniq.io/en/how-to-rank-in-chatgpt): The mechanics of getting cited by ChatGPT. Source authority, structured data, on-page signals that matter to the model.
+- [AI search optimization guide](https://nextgeniq.io/en/ai-search-optimization-guide): The full playbook across the four engines we monitor today. What to publish, how to format it, how to measure progress.
+- [Best AI visibility tools](https://nextgeniq.io/en/best-ai-visibility-tools): Honest comparison of the category. Where NextGenIQ fits, where competitors are stronger, when to use which.
+- [Who should use NextGenIQ](https://nextgeniq.io/en/who-should-use-nextgeniq): Target customers. SaaS marketing teams, B2B challenger brands, agencies running AI visibility programs for clients.
+- [Learn](https://nextgeniq.io/en/learn): Long-form library. Research, case studies, prompt engineering for AI visibility, citation strategy.
+
+## Commercial
+
+- [Pricing](https://nextgeniq.io/en/pricing): Plans, what each includes, when to upgrade. Starter, Pro, Agency. Monthly and annual billing, 20% off annual.
+- [Free audit](https://nextgeniq.io/en/audit): No-signup demo of the platform. Outputs the same Selection Likelihood and Quadrant signals paid customers track.
+
+## Trust
+
+- [Trust center](https://nextgeniq.io/en/trust-center): Security posture, data handling, third-party processors.
+- [Privacy policy](https://nextgeniq.io/en/privacy-policy): What we collect, why, retention windows, user rights.
+- [Terms of service](https://nextgeniq.io/en/terms-of-service): Conditions of use.
+- [Acceptable use policy](https://nextgeniq.io/en/acceptable-use-policy): What the platform may and may not be used for.
+- [Cookie policy](https://nextgeniq.io/en/cookie-policy): Cookie categories and consent.
+- [Data processing agreement](https://nextgeniq.io/en/data-processing-agreement): GDPR-aligned DPA available to enterprise customers.
+- [Disclaimer](https://nextgeniq.io/en/disclaimer): Statistical caveats. Selection Likelihood is a probability, not a guarantee.
+
+## Optional
+
+- [Blog](https://nextgeniq.io/en/blog): Product updates, technique notes, observations from the dataset.
